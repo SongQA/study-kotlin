@@ -1,12 +1,16 @@
 package com.study.algorithm
 
+import java.util.*
+
 fun main() {
     val arr = intArrayOf(5, 2, 7, 1, 3)
 
-    println("버블 정렬 : ${bubbleSort(arr)}")
-    println("삽입 정렬 : ${insertionSort(arr)}")
-    println("퀵 정렬 : ${quickSort(arr)}")
-    println("병합 정렬 : ${mergeSort(arr)}")
+    println("코틀린 오름차순 정렬 : ${arr.sortedArray().contentToString()}")
+    println("코틀린 내림차순 정렬 : ${arr.sortedArrayDescending().contentToString()}")
+    println("버블 정렬 : ${bubbleSort(arr).contentToString()}")
+    println("삽입 정렬 : ${insertionSort(arr).contentToString()}")
+    println("퀵 정렬 : ${quickSort(arr).contentToString()}")
+    println("병합 정렬 : ${mergeSort(arr).contentToString()}")
 }
 
 /*
