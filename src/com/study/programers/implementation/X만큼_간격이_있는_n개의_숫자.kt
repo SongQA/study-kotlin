@@ -1,4 +1,4 @@
-package com.study.programers.practice
+package com.study.programers.implementation
 
 /*
 x만큼 간격이 있는 n개의 숫자
