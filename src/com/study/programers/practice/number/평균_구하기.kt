@@ -1,4 +1,4 @@
-package com.study.programers.practice
+package com.study.programers.practice.number
 
 /*
 평균 구하기

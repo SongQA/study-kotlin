@@ -1,7 +1,5 @@
 package com.study.programers.implementation
 
-import kotlin.collections.max
-
 /*
 삼각형의 완성조건 (1)
 
