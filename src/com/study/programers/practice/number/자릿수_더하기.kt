@@ -1,4 +1,4 @@
-package com.study.programers.practice
+package com.study.programers.practice.number
 
 /*
 자릿수 더하기

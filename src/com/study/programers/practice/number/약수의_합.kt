@@ -1,4 +1,4 @@
-package com.study.programers.practice
+package com.study.programers.practice.number
 
 /*
 약수의 합
