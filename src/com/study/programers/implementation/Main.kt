@@ -1,5 +1,7 @@
 package com.study.programers.implementation
 
+import com.study.programers.practice.array.문자열_뒤집기
+
 fun main() {
-    println(삼각형의_완성조건_1().solution(intArrayOf(1, 2, 3)))
+    println(문자열_뒤집기().solution("adbsksk"))
 }
